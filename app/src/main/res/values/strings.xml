@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Phillips Hue Manager</string>
+    <string name="phillips_hue">Phillips Hue Manager</string>
+    <string name="bri">Brightness</string>
+    <string name="sat">Saturation</string>
+    <string name="ref">Refresh</string>
+    <string name="hue">Hue</string>
+</resources>
